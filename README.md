@@ -22,5 +22,9 @@
 
 ![](https://github.com/auralius/graphical_programming_tutorials/blob/main/simulink/sshots/successive_over_relaxation.png)
 
+## Parabolic interpolation
+
+![](https://github.com/auralius/graphical_programming_tutorials/blob/main/simulink/sshots/parabolic_interpolation.png)
+
 
 
