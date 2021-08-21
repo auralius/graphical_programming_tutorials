@@ -14,3 +14,7 @@
 
 ![](https://github.com/auralius/graphical_programming_tutorials/blob/main/simulink/sshots/gauss_seidel.png)
 
+## Jacobi
+
+![](https://github.com/auralius/graphical_programming_tutorials/blob/main/simulink/sshots/jacobi.png)
+
