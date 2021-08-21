@@ -1,3 +1,5 @@
+MATLAB version: R2021a
+
 ## Fixed point iteration
 
 ![](https://github.com/auralius/graphical_programming_tutorials/blob/main/simulink/sshots/fixed_point_iteration.png)
