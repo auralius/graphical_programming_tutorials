@@ -18,3 +18,9 @@
 
 ![](https://github.com/auralius/graphical_programming_tutorials/blob/main/simulink/sshots/jacobi.png)
 
+## Successive over-relaxation
+
+![](https://github.com/auralius/graphical_programming_tutorials/blob/main/simulink/sshots/successive_over_relaxation.png)
+
+
+
