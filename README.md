@@ -29,4 +29,15 @@ MATLAB version: R2021a
 ![](https://github.com/auralius/graphical_programming_tutorials/blob/main/simulink/sshots/parabolic_interpolation.png)
 
 
+## Linear test
+
+![](https://github.com/auralius/graphical_programming_tutorials/blob/main/xcos/sshots/linear-test.png)
+
+
+
+## Time-variance test
+
+![](https://github.com/auralius/graphical_programming_tutorials/blob/main/xcos/sshots/time-variance-test.png)
+
+
 
