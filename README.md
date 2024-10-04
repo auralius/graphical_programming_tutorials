@@ -37,7 +37,10 @@ MATLAB version: R2021a
 
 ## Time-variance test
 
+### Example 1
+
 ![](https://github.com/auralius/graphical_programming_tutorials/blob/main/xcos/sshots/time-variance-test.png)
 
+### Example 2
 
-
+![](https://github.com/auralius/graphical_programming_tutorials/blob/main/simulink/sshots/time_variance_test.png)
