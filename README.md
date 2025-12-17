@@ -43,4 +43,9 @@ MATLAB version: R2021a
 
 ### Example 2
 
-![](https://github.com/auralius/graphical_programming_tutorials/blob/main/simulink/sshots/time_variance_test.png)
+![](https://github.com/auralius/graphical_programming_tutorials/blob/main/xcos/sshots/time-variance-test.png)
+
+## IIR filter (unit-impulse response)
+
+![](https://github.com/auralius/graphical_programming_tutorials/blob/main/simulink/sshots/iir.png)
+
