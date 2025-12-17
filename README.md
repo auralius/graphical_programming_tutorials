@@ -33,19 +33,22 @@ MATLAB version: R2021a
 
 ![](https://github.com/auralius/graphical_programming_tutorials/blob/main/xcos/sshots/linear-test.png)
 
-
-
 ## Time-variance test
 
-### Example 1
+### Example 1 (Scilab Xcos)
 
 ![](https://github.com/auralius/graphical_programming_tutorials/blob/main/xcos/sshots/time-variance-test.png)
 
 ### Example 2
+#### Scilab Xcos
 
 ![](https://github.com/auralius/graphical_programming_tutorials/blob/main/xcos/sshots/time-variance-test.png)
+
+#### MATLAB Simulink
+![](https://github.com/auralius/graphical_programming_tutorials/blob/main/simulink/sshots/time_variance_test.png)
 
 ## IIR filter (unit-impulse response)
 
 ![](https://github.com/auralius/graphical_programming_tutorials/blob/main/simulink/sshots/iir.png)
+
 
